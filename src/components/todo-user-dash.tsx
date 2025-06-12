@@ -36,7 +36,7 @@ export function ToDoUserDashBoard(){
     }
 
     return(
-        <div className="bg-light p-3" style={{height:'100vh'}}>
+        <div className="bg-light p-3" style={{height:'80vh'}}>
             <h2 className="d-flex justify-content-between"><span>{cookies['userid']} Your Appointments</span> <button onClick={handleSignout} className="btn btn-link">Signout</button> </h2>
             <div className="my-2">
                 <Link to="/add-task" className="btn btn-primary">Add Task</Link>
