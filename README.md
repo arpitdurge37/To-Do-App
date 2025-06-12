@@ -41,7 +41,7 @@ A powerful and responsive To-Do application built with **React**, **TypeScript**
 
 ---
 
-## 📦 Getting Started (Frontend)
+## 📦 Getting Started
 
 ```bash
 git clone https://github.com/arpitdurge37/To-Do-App.git
