@@ -41,23 +41,6 @@ A powerful and responsive To-Do application built with **React**, **TypeScript**
 
 ---
 
-## 📁 Project Structure
-root/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ ├── App.tsx
-│ └── index.tsx
-├── server/
-│ └── rest-api.js
-├── package.json
-└── README.md
-
-
----
-
 ## 📦 Getting Started (Frontend)
 
 ```bash
