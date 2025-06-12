@@ -46,10 +46,9 @@ A powerful and responsive To-Do application built with **React**, **TypeScript**
 ```bash
 git clone https://github.com/arpitdurge37/To-Do-App.git
 cd To-Do-App
-npm install
-npm start
+npm install (Install Dependencies)
+npm start (Start the Frontend)
 
 🌐 Starting the Backend (API Server)
 cd server
-npm install
 node rest-api.js
